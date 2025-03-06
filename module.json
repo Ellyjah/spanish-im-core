@@ -1,0 +1,48 @@
+{
+  "id": "traduccion-im-core-es",
+  "title": "Traducción IM Core ES",
+  "description": "Traducción del Libro de Reglas oficial de Imperium Maledictum.",
+  "authors": [
+    {
+      "name": "Ellyjah"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "register.js"
+  ],
+  "styles": [
+    "impmal-core.css"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "impmal",
+        "type": "system",
+        "compatibility": {}
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "impmal-core",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}

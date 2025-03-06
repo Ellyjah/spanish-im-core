@@ -1,0 +1,1571 @@
+{
+  "label": "Tables (Core Rulebook)",
+  "folders": {
+   "Character Creation": "Creación de Personaje",
+   "Critical Wounds": "Heridas Críticas",
+   "Encounter Complications": "Complicaciones en los Encuentros",
+   "Patron": "Patrón"
+},
+
+  "entries": {
+    "Agri World Faction": {
+      "name": "Facción del Mundo Agrícola",
+      "description": "",
+      "results": {
+        "name": "Facción del Mundo Agrícola",
+        "27-27": "Adeptus Astra Telepathica",
+        "28-37": "Adeptus Mechanicus",
+        "38-51": "Adeptus Ministorum",
+        "52-65": "Astra Militarum",
+        "66-77": "Imperial Fleet",
+        "78-96": "Infractionist",
+        "97-98": "The Inquisition",
+        "99-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Arch-Confessor - Boons": {
+      "name": "Arch-Confessor - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Adeptus Ministorum Training Facility",
+        "2-2": "Ceremonialist",
+        "3-3": "Cleansing Flame",
+        "4-4": "Deploy Devout",
+        "5-5": "Ideologue Crusader",
+        "6-6": "Noble Blood",
+        "7-7": "Opulent",
+        "8-8": "Purification Rituals",
+        "9-9": "Summon Sermoniser",
+        "10-10": "Witch Hunt"
+      }
+    },
+    "Arch-Confessor - Liabilities": {
+      "name": "Arch-Confessor - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Boastful",
+        "3-3": "Dogmatic",
+        "4-4": "Enemy",
+        "5-5": "Frail Form",
+        "6-6": "Hallowed Ignorance",
+        "7-7": "Known Meddler",
+        "8-8": "Missionary Mandate",
+        "9-9": "Offended the Omnissiah",
+        "10-10": "Pious Stipulations"
+      }
+    },
+    "Astropath - Boons": {
+      "name": "Astropath - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Ancient Servants",
+        "2-2": "Blackmailer",
+        "3-3": "Cartographica Contacts",
+        "4-4": "Contact Network",
+        "5-5": "Null Sanctum",
+        "6-6": "Oracular",
+        "7-7": "Psychic Protection",
+        "8-8": "Psyker Support",
+        "9-9": "Sanctum Obscurus",
+        "10-10": "Tentative Alliance"
+      }
+    },
+    "Astropath - Liabilities": {
+      "name": "Astropath - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Enemy",
+        "3-3": "Frail Form",
+        "4-4": "Overextended",
+        "5-5": "Paranoid",
+        "6-6": "Pious Stipulations",
+        "7-7": "Shoddy Supplies",
+        "8-8": "Sidereal Quests",
+        "9-9": "Suspect",
+        "10-10": "Warped Visions"
+      }
+    },
+    "Canoness - Boons": {
+      "name": "Canoness - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Adeptus Ministorum Training Facility",
+        "2-2": "Clandestine Inquisition Training Facility",
+        "3-3": "Cleansing Flame",
+        "4-4": "Ecclesiarchal Shrine",
+        "5-5": "Fearsome Reputation",
+        "6-6": "Martial Training Facility",
+        "7-7": "Medicae Facility",
+        "8-8": "Righteous Bolts",
+        "9-9": "Summon Sermoniser",
+        "10-10": "Witch Hunt"
+      }
+    },
+    "Canoness - Liabilities": {
+      "name": "Canoness - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Dogmatic",
+        "3-3": "Draconian",
+        "4-4": "Enemy",
+        "5-5": "Hallowed Ignorance",
+        "6-6": "Miserly",
+        "7-7": "Missionary Mandate",
+        "8-8": "Nemesis",
+        "9-9": "Pious Stipulations",
+        "10-10": "Psyker Slayer"
+      }
+    },
+    "Connections": {
+      "name": "Conexiones",
+      "description": "",
+      "results": {
+        "1-4": "_____ me debe una cantidad significativa de solars.",
+        "5-8": "Le debo a _____ una cantidad significativa de solars.",
+        "9-12": "Oí a _____ decir algo blasfemo, quizás incluso hereje.",
+        "13-16": "_____ sabe mi más oscuro secreto.",
+        "17-20": "_____ sabe que escondí a un ser querido de las Naves Negras.",
+        "21-24": "_____ y yo luchamos en bandos opuestos en una batalla hace mucho tiempo.",
+        "25-28": "Inscribí el nombre de _____ en mi arma favorita.",
+        "29-32": "_____ y yo crecimos juntos.",
+        "33-36": "_____ me pidió que traicionara a alguien cercano a nosotros.",
+        "37-40": "_____ y yo estuvimos involucrados en un incidente que ambos preferiríamos mantener en silencio.",
+        "41-44": "Estoy seguro de que vi morir a _____.",
+        "45-48": "Tuve una visión de _____.",
+        "49-52": "Salvé la vida de _____.",
+        "53-56": "_____ salvó mi vida.",
+        "57-60": "Una vez vi a _____ leyendo un tomo extraño. No parecía nada saludable.",
+        "61-64": "He oído a _____ hablar una parte de una conversación cuando estaba solo. Sus palabras eran perturbadoras.",
+        "65-68": "Llevo algo que le pertenece a _____, y ellos tienen algo mío.",
+        "69-72": "_____ compartió un terrible secreto conmigo.",
+        "73-76": "Tengo una única bala de plata. Está grabada con varias palabras en Alto Gótico y el nombre de _____.",
+        "77-80": "Oí a _____ cuestionar sus creencias.",
+        "81-84": "_____ tiene algo que quiero.",
+        "85-88": "Sé lo que realmente es _____.",
+        "89-92": "Trabajé con _____ antes de esto.",
+        "93-96": "_____ y yo competimos constantemente para superarnos mutuamente.",
+        "97-100": "Sospecho que _____ es un traidor."
+      }
+    },
+    "Criminal Mastermind - Boons": {
+      "name": "Criminal Mastermind - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Backchannel Contacts",
+        "2-2": "Blackmailer",
+        "3-3": "Contrabandist",
+        "4-4": "Cover Story",
+        "5-5": "Forger",
+        "6-6": "Gang Backup",
+        "7-7": "Sanctum Obscurus",
+        "8-8": "Spy Network",
+        "9-9": "Strategos Extremis",
+        "10-10": "Tentative Alliance"
+      }
+    },
+    "Criminal Mastermind - Liabilities": {
+      "name": "Criminal Mastermind - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Corrupt",
+        "3-3": "Dangerous Debt",
+        "4-4": "Enemy",
+        "5-5": "Excommunicated",
+        "6-6": "Paranoid",
+        "7-7": "Saboteur",
+        "8-8": "Shoddy Supplies",
+        "9-9": "Strange Tastes",
+        "10-10": "Suspect"
+      }
+    },
+    "Critical Wounds - Arm": {
+      "name": "Heridas Críticas - Brazo",
+      "description": "",
+      "results": {
+        "1-1": "Jolted Wrist",
+        "2-2": "Dead Arm",
+        "3-3": "Laceration",
+        "4-4": "Sliced Hand",
+        "5-5": "Dislocated Shoulder",
+        "6-6": "Severed Finger",
+        "7-7": "Clean Break",
+        "8-8": "Deep Cut",
+        "9-9": "Mangled Hand",
+        "10-10": "Shattered Elbow",
+        "11-12": "Cleft Hand",
+        "13-14": "Sliced Artery",
+        "15-16": "Severed Hand",
+        "17-19": "Ruined Arm",
+        "20-20": "Brutal Dismemberment"
+      }
+    },
+    "Critical Wounds - Body": {
+      "name": "Heridas Críticas - Cuerpo",
+      "description": "",
+      "results": {
+        "1-1": "Winded",
+        "2-2": "Low Blow",
+        "3-3": "Laceration",
+        "4-4": "Gut Shot",
+        "5-5": "Cracked Rib",
+        "6-6": "Hammering Blow",
+        "7-7": "Broken Collarbone",
+        "8-8": "Deep Cut",
+        "9-9": "Fractured Hip",
+        "10-10": "Shattered Ribs",
+        "11-11": "Punctured Lung",
+        "12-13": "Sliced Artery",
+        "14-15": "Flayed Flesh",
+        "16-17": "Injured Spine",
+        "18-18": "Torn Apart"
+      }
+    },
+    "Critical Wounds - Head": {
+      "name": "Heridas Críticas - Cabeza",
+      "description": "",
+      "results": {
+        "1-1": "Black Eye",
+        "2-2": "Rattling Blow",
+        "3-3": "Laceration",
+        "4-4": "Sliced Ear",
+        "5-5": "Dislocated Jaw",
+        "6-6": "Struck Forehead",
+        "7-7": "Major Eye Wound",
+        "8-8": "Major Ear Wound",
+        "9-9": "Smashed Mouth",
+        "10-10": "Broken Nose",
+        "11-11": "Mangled Ear",
+        "12-12": "Concussive Blow",
+        "13-13": "Devastated Eye",
+        "14-14": "Mangled Jaw",
+        "15-15": "Shattered Skull"
+      }
+    },
+    "Critical Wounds - Leg": {
+      "name": "Heridas Críticas - Piernas",
+      "description": "",
+      "results": {
+        "1-1": "Twisted Ankle",
+        "2-2": "Dead Leg",
+        "3-3": "Laceration",
+        "4-4": "Sliced Calf",
+        "5-5": "Dislocated Knee",
+        "6-6": "Severed Toe",
+        "7-7": "Clean Break",
+        "8-8": "Deep Cut",
+        "9-9": "Mangled Foot",
+        "10-10": "Shattered Knee",
+        "11-12": "Cleft Foot",
+        "13-14": "Sliced Artery",
+        "15-16": "Severed Foot",
+        "17-19": "Ruined Leg",
+        "20-20": "Brutal Dismemberment"
+      }
+    },
+    "Curios": {
+      "name": "Curioso",
+      "description": "",
+      "results": {
+        "1-2": "Pequeño disco de cobre",
+        "3-4": "Cartucho de bólter vacío",
+        "5-6": "Segmento de bobina de plasma",
+        "7-8": "Lente óptica manchada",
+        "9-10": "Frasco de líquido resplandeciente",
+        "11-12": "Sextante roto",
+        "13-14": "Palo de fuego usado",
+        "15-16": "Llave doblada",
+        "17-18": "Casquillo de cartucho de escopeta",
+        "19-20": "Rueda dentada de latón",
+        "21-22": "Bobina de cable de cobre",
+        "23-24": "Candado roto",
+        "25-26": "Guante de protección contra radiación (rasgado)",
+        "27-28": "Pasador de granada doblado",
+        "29-30": "Grilletes de pierna agrietados",
+        "31-32": "Maglens derretido",
+        "33-34": "Tres canicas de cuarzo",
+        "35-36": "Aguja de brújula",
+        "37-38": "Pinza arterial (defectuosa)",
+        "39-40": "Mazo de cartas de plastiacero",
+        "41-42": "Llave ancestral",
+        "43-44": "Antena de auspex",
+        "45-46": "Lente de aumento antigua",
+        "47-48": "Pasador de una granada fragmentaria",
+        "49-50": "Tecla de punch de cogitador",
+        "51-52": "Sección de cable quemado",
+        "53-54": "Cartucho de exterminador agrietado",
+        "55-56": "Masa de balas derretidas",
+        "57-58": "Interruptor de palanca",
+        "59-60": "Lente de Stablight (rota)",
+        "61-62": "Calibradores rotos",
+        "63-64": "Guantes de ácido deshilachados",
+        "65-66": "Dial de una pizarra de datos",
+        "67-68": "Brújula muerta",
+        "69-70": "Escalpelo (agrietado)",
+        "71-72": "Carcasa de bomba galvánica",
+        "73-74": "Dedo augmético roto",
+        "75-76": "Trozo de carbón",
+        "77-78": "Sección de placa de cubierta",
+        "79-80": "Frasco de limaduras de hierro",
+        "81-82": "Papel de aluminio de paquete de raciones",
+        "83-84": "Sección de bobina de plasma",
+        "85-86": "Fragmento de muro de colmena",
+        "87-88": "Contador de radiación caducado",
+        "89-90": "Pergamino de cantos del Espíritu Máquina",
+        "91-92": "Cronómetro roto",
+        "93-94": "Fragmento de una ventanilla de nave del vacío",
+        "95-96": "Pantalla de auspex agrietada",
+        "97-98": "Gatillo de pistola automática",
+        "99-100": "Guante de traje del vacío"
+      }
+    },
+    "Departmento Munitorum Ordinate - Boons": {
+      "name": "Departmento Munitorum Ordinate - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Administratum Censorium",
+        "2-2": "Adeptus Ministorum Training Facility",
+        "3-3": "Astropathic Communication",
+        "4-4": "Cartographica Contacts",
+        "5-5": "Conveyance Commander",
+        "6-6": "Datavault Access",
+        "7-7": "Drop Squad",
+        "8-8": "Munitorum Surplus",
+        "9-9": "Recruitment Drive",
+        "10-10": "Seconded Troopers"
+      }
+    },
+    "Departmento Munitorum Ordinate - Liabilities": {
+      "name": "Departmento Munitorum Ordinate - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Corrupt",
+        "3-3": "Draconian",
+        "4-4": "Frail Form",
+        "5-5": "Incessant Updates",
+        "6-6": "Known Meddler",
+        "7-7": "Meticulous Archivist",
+        "8-8": "Overextended",
+        "9-9": "Sidereal Quests",
+        "10-10": "Tithe Obsessed"
+      }
+    },
+    "Diplomat - Boons": {
+      "name": "Diplomat - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Astropathic Communication",
+        "2-2": "Backchannel Contacts",
+        "3-3": "Blackmailer",
+        "4-4": "Cartographica Contacts",
+        "5-5": "Contrabandist",
+        "6-6": "Forbidden Archive",
+        "7-7": "Opulent",
+        "8-8": "Registered Trader",
+        "9-9": "Tentative Alliance",
+        "10-10": "Xenotechnician"
+      }
+    },
+    "Diplomat - Liabilities": {
+      "name": "Diplomat - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Boastful",
+        "3-3": "Craven",
+        "4-4": "Dealbreaker",
+        "5-5": "Enemy",
+        "6-6": "Loose Cannon",
+        "7-7": "Missionary Mandate",
+        "8-8": "Paranoid",
+        "9-9": "Price of Life",
+        "10-10": "Rumoured Dead"
+      }
+    },
+    "Distinguishing Features": {
+      "name": "Características Distintivas",
+      "description": "",
+      "results": {
+        "1-3": "Tienes un tatuaje del Águila en tu frente.",
+        "4-10": "Tienes un leve olor a almidón de cadáver.",
+        "11-11": "Tienes una cápsula de bolter sin explotar alojada en tu pecho. Es seguro que algún día explotará.",
+        "12-15": "Tienes un electo desvanecido que preferirías olvidar.",
+        "16-26": "Marcas de viruela u otro signo persistente de una antigua enfermedad afean tu piel.",
+        "27-27": "Tus orejas han sido reemplazadas por augméticos voluminosos pero funcionales.",
+        "28-28": "Tus dientes están hechos de metal.",
+        "29-30": "Tu córnea está tatuada.",
+        "31-40": "Estás gravemente cicatrizado, quizás debido a un combate o un accidente industrial.",
+        "41-42": "Tus dientes están limados a puntos afilados.",
+        "43-46": "Partes de tu cráneo están cubiertas por una placa de metal.",
+        "47-47": "Llevas una cicatriz inexplicable en forma de Águila.",
+        "48-49": "Tus párpados están fuertemente tatuados, por dentro y por fuera, con escritura en Alto Gótico.",
+        "50-50": "Tienes una marca de nacimiento en forma de calavera. Decide dónde está en tu cuerpo.",
+        "51-54": "Has sido marcado con el símbolo de una secta o culto.",
+        "55-57": "Tus pupilas son completamente blancas.",
+        "58-65": "Tu piel es excepcionalmente pálida.",
+        "66-68": "Tus músculos están excesivamente definidos, quizás debido a una vida de trabajo arduo o por el uso de músculo sintético.",
+        "69-72": "Numerosos enchufes craneales sobresalen de tu cuero cabelludo.",
+        "73-78": "Estás envuelto en pergaminos de escritura y sellos de pureza. Te sientes incómodo sin ellos.",
+        "79-99": "Eres común, otro engranaje infinitamente reemplazable en la interminable maquinaria del Imperio.",
+        "100-100": "Eres bastante distintivo. Tira dos veces más, volviendo a tirar cualquier resultado de 79 o superior."
+      }
+    },
+    "Divinations": {
+      "name": "Adivinaciones",
+      "description": "",
+      "results": {
+        "1-2": "<p>Es mejor morir por el Emperador que vivir para ti mismo.</p>",
+        "3-4": "<p>Confía en tu celo — es un arma sin igual.</p>",
+        "5-6": "<p>Una mente pequeña es una mente ordenada.</p>",
+        "7-8": "<p>Abrazar a los xenos es dar la bienvenida a tu propia condenación.</p>",
+        "9-10": "<p>El deber prevalece.</p>",
+        "11-12": "<p>Los sabios aprenden de las muertes ajenas.</p>",
+        "13-14": "<p>Destruye a los xenos antes de que puedan hablar sus mentiras.</p>",
+        "15-16": "<p>La lógica es el enemigo de la fe.</p>",
+        "17-18": "<p>El pensamiento engendra herejía.</p>",
+        "19-20": "<p>La herejía engendra retribución.</p>",
+        "21-22": "<p>Una mente sin propósito vagará por lugares oscuros.</p>",
+        "23-24": "<p>Por la manera en que morimos somos juzgados.</p>",
+        "25-26": "<p>El éxito se mide en sangre: la tuya o la de tu enemigo.</p>",
+        "27-28": "<p>El Emperador nos otorga el don de la intolerancia.</p>",
+        "29-30": "<p>La verdadera fe es ciega y justificada.</p>",
+        "31-32": "<p>No hay sustituto para el celo.</p>",
+        "33-34": "<p>Aún quien no tiene nada puede ofrecer su vida.</p>",
+        "35-36": "<p>La sangre de los mártires es la semilla del Imperio.</p>",
+        "37-38": "<p>No llames feliz a nadie hasta que esté muerto.</p>",
+        "39-40": "<p>Una mente abierta es como una fortaleza con sus puertas sin tranca y desprotegidas.</p>",
+        "41-42": "<p>En la sangre de los mártires se forja la espada del Imperio.</p>",
+        "43-44": "<p>Un momento de herejía corrompe una vida de deber.</p>",
+        "45-46": "<p>La crueldad es la bondad de los sabios.</p>",
+        "47-48": "<p>Un cobarde busca el compromiso.</p>",
+        "49-50": "<p>Solo en la muerte termina el deber.</p>",
+        "51-52": "<p>La muerte es la sirvienta de los justos.</p>",
+        "53-54": "<p>El éxito se conmemora; el fracaso, simplemente se recuerda.</p>",
+        "55-56": "<p>La misericordia es una señal de debilidad.</p>",
+        "57-58": "<p>La inocencia no prueba nada.</p>",
+        "59-60": "<p>Bendita sea la mente demasiado pequeña para la duda.</p>",
+        "61-62": "<p>Quema a los Impuros con los fuegos de la Pureza.</p>",
+        "63-64": "<p>La razón es el manto de los traidores.</p>",
+        "65-66": "<p>Apartarte de la luz del Emperador es tu perdición.</p>",
+        "67-68": "<p>No hay nada que temer excepto el fracaso.</p>",
+        "69-70": "<p>La duda es una señal de debilidad.</p>",
+        "71-72": "<p>La mayor armadura es el desprecio.</p>",
+        "73-74": "<p>La justicia de tu acción se mide por la fuerza de tu convicción.</p>",
+        "75-76": "<p>El odio es el mayor regalo del Emperador a la Humanidad.</p>",
+        "77-78": "<p>La duda forma el camino hacia la condenación.</p>",
+        "79-80": "<p>La violencia lo resuelve todo.</p>",
+        "81-82": "<p>El sufrimiento es un instructor implacable.</p>",
+        "83-84": "<p>El Emperador no te juzgará por tus medallas, sino por tus cicatrices.</p>",
+        "85-86": "<p>La esperanza es el primer paso en el camino hacia la decepción.</p>",
+        "87-88": "<p>El perdón es una señal de debilidad.</p>",
+        "89-90": "<p>No preguntes por qué sirves; solo pregunta cómo.</p>",
+        "91-92": "<p>Todas tus obras se convierten en ceniza y polvo si no sirven al Emperador.</p>",
+        "93-94": "<p>No hay espectadores en la guerra, solo soldados y traidores.</p>",
+        "95-96": "<p>Lleva la Voluntad del Emperador como tu antorcha; con ella destruye las sombras.</p>",
+        "97-98": "<p>La herejía crece de la inactividad.</p>",
+        "99-100": "<p>¡Quema al Hereje! ¡Mata al Mutante! ¡Purga al Impuro!</p>"
+      }
+    },
+    "Encounter Complications": {
+      "name": "Complicaciones del Encuentro",
+      "description": "",
+      "results": {
+        "1-1": "Complicaciones del Encuentro - Ambientales",
+        "2-2": "Complicaciones del Encuentro - Interacción",
+        "3-3": "Complicaciones del Encuentro - Objetivo Vital",
+        "4-4": "Complicaciones del Encuentro - Protección",
+        "5-5": "Complicaciones del Encuentro - Sensibles al tiempo",
+        "6-6": "Complicaciones del Encuentro - Tácticas"
+      }
+    },
+    "Encounter Complications - Environmental": {
+      "name": "Complicaciones del Encuentro - Ambientales",
+      "description": "",
+      "results": {
+        "1-1": "Un peligro se está propagando a través de las zonas.",
+        "2-2": "El entorno está oscurecido por humo, niebla o incluso gas tóxico.",
+        "3-3": "El suelo o el techo se están derrumbando.",
+        "4-4": "La batalla tiene lugar en una ubicación elevada o precaria.",
+        "5-5": "La ubicación se mueve, sacude o tambalea de manera impredecible.",
+        "6-6": "Los depredadores naturales o la flora cazan a aliados y enemigos."
+      }
+    },
+    "Encounter Complications - Interaction": {
+      "name": "Complicaciones del Encuentro - Interacción",
+      "description": "",
+      "results": {
+        "1-1": "Luces que pueden oscurecer o iluminar el área.",
+        "2-2": "Un enorme contenedor de agua o desechos tóxicos que podría inundar un área.",
+        "3-3": "Conductos de plasma térmico volátil cruzan el área.",
+        "4-4": "Puertas blindadas o escudos antiaéreos que pueden ser controlados.",
+        "5-5": "Mortales servo-remolcadores galvánicos que pueden aplastar a los enemigos.",
+        "6-6": "Estructuras inestables que podrían colapsar si se dañan."
+      }
+    },
+    "Encounter Complications - Protection": {
+      "name": "Complicaciones del Encuentro - Protección",
+      "description": "",
+      "results": {
+        "1-1": "Un edificio o vehículo grande que debe ser fortificado.",
+        "2-2": "Un grupo aterrorizado de inocentes que no puede luchar.",
+        "3-3": "Un testigo o hereje cautivo para ser juzgado.",
+        "4-4": "Un aliado inmóvil, una pieza de tecnología frágil o un artefacto arcano.",
+        "5-5": "Un animal cautivo o un guerrero enemigo que desea la libertad.",
+        "6-6": "Un vehículo o un animal grande que se desplaza por el territorio enemigo."
+      }
+    },
+    "Encounter Complications - Tactical": {
+      "name": "Complicaciones del Encuentro - Tácticas",
+      "description": "",
+      "results": {
+        "1-1": "El enemigo lleva equipo xeno o herético.",
+        "2-2": "El enemigo lucha de forma defensiva mientras espera refuerzos.",
+        "3-3": "El enemigo utiliza emboscadas o trampas mortales.",
+        "4-4": "El enemigo ha tomado el control de los peligros ambientales.",
+        "5-5": "El enemigo tiene una superioridad numérica abrumadora y es implacable.",
+        "6-6": "Múltiples facciones enemigas se han aliado contra el grupo."
+      }
+    },
+    "Encounter Complications - Time Sensitive": {
+      "name": "Complicaciones del Encuentro - Sensibles al tiempo",
+      "description": "",
+      "results": {
+        "1-1": "El grupo debe entregar un mensaje o un objeto urgente.",
+        "2-2": "Toda el área pronto será destruida o inhabitable.",
+        "3-3": "El grupo debe llegar a una ubicación para detener un ataque.",
+        "4-4": "Se debe mantener un área hasta que lleguen los refuerzos aliados.",
+        "5-5": "Un enemigo específico debe ser capturado o asesinado antes de que escape.",
+        "6-6": "Se debe completar un ritual purificador o un proceso tecnológico."
+      }
+    },
+    "Encounter Complications - Vital Target": {
+      "name": "Complicaciones del Encuentro - Objetivo Vital",
+      "description": "",
+      "results": {
+        "1-1": "El líder de las fuerzas enemigas debe ser derrotado.",
+        "2-2": "Un artefacto arcano o tecnológico llevado por un enemigo específico.",
+        "3-3": "Una ubicación específica que debe ser recuperada.",
+        "4-4": "Capturar a un enemigo o liberar a un aliado en medio de las fuerzas enemigas.",
+        "5-5": "Un cogitador que debe ser hackeado en medio de un área peligrosa.",
+        "6-6": "Un enemigo monstruoso entre una multitud de mortales inocentes."
+      }
+    },
+    "Events": {
+      "name": "Eventos",
+      "description": "",
+      "results": {
+        "1-5": "<p><strong>Arrestado</strong>: Un miembro de tu grupo ha sido acusado de un grave crimen y arrestado cuando menos lo esperaba. Pueden ser acusados de asesinato, herejía, o incluso peor, de evadir los diezmos y gravámenes Imperiales. Cualquier otro personaje puede gastar un Esfuerzo para intentar probar la inocencia de su aliado con una tirada de <strong>Conocimiento (Rutinario +20)</strong>. De lo contrario, el grupo deberá gastar dos Esfuerzos adicionales para liberarlo (por los canales adecuados o de otra manera). Alternativamente, el Patrón del grupo intervendrá para liberar al Personaje, si bien solo para asegurarse de que sus propios secretos no se divulguen. Esto reduce el favor del Patrón con la Facción que haya encarcelado al Personaje en 1.</p>",
+        "6-14": "<p><strong>Encuentro Fortuito</strong>: Durante tu tiempo libre, te encuentras con una persona que posee conocimientos extraños o únicos que podrían serte útiles en el futuro. La próxima vez que realices el Esfuerzo de Consejo de Experto, contarás como si ya hubieras localizado a un experto.</p>",
+        "15-19": "<p><strong>Discusión</strong>: Un encuentro con un miembro de otra Facción (usa la tabla @UUID[Compendium.impmal-core.tables.RollTable.vl9saE1Hpu48qsLd]{Facción del Patrón} para determinar cuál). El encuentro termina mal — quizás interrumpes el trabajo vital de un Tech-priest, o tropiezas en medio de los tratos ilegales de un Infractionista. Escapas con vida, pero esa persona guarda un rencor duradero contra ti. Los efectos de esto quedan a discreción del DJ.</p>",
+        "20-25": "<p><strong>Muerte en las Sombras</strong>: Un NPC aliado tiene un encuentro cercano con la muerte y recurre a ti en busca de ayuda. Puedes gastar un Esfuerzo para asistirle de alguna manera — reforzando su seguridad, rastreando a un atacante, o de otro modo trabajando para evitar su muerte. Si fracasas en hacerlo, tu aliado desarrollará un rencor hacia ti, ¡o incluso puede aparecer muerto!</p>",
+        "26-29": "<p><strong>Perseguido</strong>: ¡Te das cuenta de que te están siguiendo! Esto continúa durante días, con tus perseguidores siempre adelantándose a cualquier intento de enfrentarlos. Pueden ser Vigilites que te sospechan de algún crimen, Infractionistas que buscan chantajearte, o incluso otros agentes de tu Patrón observando en busca de deslealtad. La paranoia hace difícil descansar, y comienzas tu próxima misión @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Fatigado}.</p>",
+        "30-32": "<p><strong>Disturbios</strong>: Agitadores han provocado un verdadero levantamiento entre la ciudadanía local. Tal vez un envío contaminado de Raciones Grises haya desatado rumores sobre escasez de alimentos, un predicador local popular haya sido censurado por herejía por el Adeptus Ministorum, ¡o las propias acciones del Personaje hayan provocado la violencia! Debido a la alteración, todas las Tiradas realizadas para completar los Esfuerzos durante el posterior periodo de Tiempo Libre sufren una penalización de −2 en el Grado de Éxito.</p>",
+        "33-37": "<p><strong>Contagio</strong>: Una plaga está azotando la zona, quizás la Peste de Uhlren o incluso un brote limitado de la letal Plaga Trepante. Realiza una Tirada de <strong>Resistencia (Difícil −10)</strong>. Si fallas, contraerás una enfermedad y comenzarás tu próxima misión @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#poisoned]{Envenenado}. Para curar la enfermedad y eliminar la Condición de Envenenado, deberás recibir tratamiento médico adecuado (según lo determine el DJ).</p>",
+        "38-45": "<p><strong>Represión</strong>: Las autoridades locales han declarado un confinamiento. Los Vigilites pueden patrullar las calles en busca de infractionistas conocidos, o los Skittari Vanguard pueden estar registrando los barrios bajos de un Mundo Forja para reunir voluntarios para el próximo diezmo. El grupo tiene Desventaja en todas las Tiradas para realizar actividades ilícitas o Esfuerzos durante este tiempo libre.</p>",
+        "46-49": "<p><strong>Espíritu de la Máquina Descontento</strong>: Un objeto de equipo que posees se deteriora y frustra los intentos de repararlo. Dependerá del DJ decidir qué pieza de equipo es, aunque debe ser algo razonablemente caro o importante para el personaje. Consulta @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Tecnología} sobre la reparación de equipos.</p>",
+        "50-53": "<p><strong>Favores Recompensados</strong>: Alguien de tu pasado aprovecha la oportunidad para devolver un favor significativo. La naturaleza precisa de este servicio debería depender de tus misiones previas y de los NPCs a los que hayas ayudado durante tus misiones o en tu vida anterior. Sea lo que sea, el NPC en cuestión desea profundamente saldar la deuda y está dispuesto a ayudar en un futuro Esfuerzo o misión.</p>",
+        "54-57": "<p><strong>Visión Presagiante</strong>: Se te concede una visión críptica, tal vez en un sueño, durante una ferviente oración al Emperador, o oculta en medio de las emisiones bináricas de una máquina defectuosa. Comienzas tu próxima misión con un punto de Destino extra, por encima de tu valor de Destino. Una vez gastado, este punto de Destino adicional no se recupera.</p>",
+        "58-62": "<p><strong>Regalo Inesperado</strong>: Recibes un regalo inesperado de un benefactor desconocido. Se trata de un equipo común seleccionado por el DJ, pero debe ser algo útil para ti. Puede haber sido dejado en tus aposentos mientras estabas ausente, metido en tus manos por un extraño que pasa y se desvanece entre la multitud, o simplemente asignado a ti hace años por la burocracia bizantina del Adeptus Administratum. Depende del DJ quién es responsable de esta generosidad, y si esperan algo a cambio.</p>",
+        "63-63": "<p><strong>Patrón Decaído</strong>: Este Evento solo puede ocurrir una vez durante un periodo de tiempo libre. Si varios Personajes generan este Evento, solo ocurrirá una vez.</p><p>Por poderosos y ricos que sean los Patrones, incluso ellos no son inmortales. Durante el periodo de tiempo libre, tu Patrón sufre una grave desgracia. Tal vez se trate de una humillación social o política, su salud se deteriora, o sufre una lesión. La primera vez que este resultado se genere en la Tabla de Eventos, el DJ debe anotarlo y decidir si el Patrón ha sufrido una caída en desgracia o una lesión grave. Si el Patrón ha sido humillado, reduce su puntuación de Influencia en 1 con la facción relevante. Si el Patrón está lesionado, no hay consecuencias inmediatas, aunque los Personajes pueden llegar a enterarse y esto puede afectar su capacidad para comunicarse con su Patrón y pedir su ayuda.</p>",
+        "64-74": "<p><strong>Cazarrecompensas</strong>: Te llega la noticia de que se ha puesto una recompensa por tu cabeza. Tal vez mataste o enfureciste inadvertidamente a la persona equivocada en tu misión anterior, o simplemente un rival se ha cansado de tu interferencia. Cualquiera que sea la causa, un @UUID[Compendium.impmal-core.actors.Actor.5CCbRXAMBtwviuFE]{Cazarrecompensas} ha sido puesto en tu búsqueda. Por ahora, no tiene efecto, pero en algún momento inconveniente de una futura misión, el Cazarrecompensas aparecerá para reclamarte. Si en algún momento al menos la mitad de los Personajes del grupo están siendo perseguidos por Cazarrecompensas, se unirán en una banda de Venatores y cazarán al grupo entero.</p>",
+        "75-79": "<p><strong>Obligaciones</strong>: Alguien que una vez te hizo un favor regresa para cobrarlo. Tal vez sea un Vigilite Machariano que pasó por alto una infracción menor, un adepto del Administratum que agilizó una solicitud vital, o un viejo camarada del Astra Militarum que te salvó la vida. Te pide algo sustancial que no es fácil de proporcionar ni sencillo de rechazar. Esto podría involucrar varios Esfuerzos para resolverse, o incluso formar la base de una futura misión. Los detalles dependen del DJ.</p>",
+        "80-85": "<p><strong>Oportunidad Ineludible</strong>: Se presenta la oportunidad de ganar unos fáciles solars. Tal vez ganes una partida de Regicidio con altas apuestas, o un ciudadano desesperado te ofrezca una pequeña fortuna a cambio de tu urgente ayuda. Si realizas con éxito un Esfuerzo de Ingreso durante este tiempo libre, duplica las ganancias que consigas.</p>",
+        "86-91": "<p><strong>Celebración de la Victoria</strong>: ¡Se lleva a cabo una gran celebración! Tal vez marque el día en que las fuerzas de San Macharius liberaron el mundo y lo devolvieron al abrazo del Emperador, o tal vez sea una antigua celebración local cuyos orígenes se han perdido en el tiempo. Sea como sea, ofrece un respiro momentáneo del trabajo interminable y la miseria de la vida en el Imperium. Los Personajes que elijan participar en la celebración se sienten descansados y rejuvenecidos, y pueden ignorar la siguiente Condición de @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#fatigued]{Fatigado} que adquieran.</p>",
+        "92-95": "<p><strong>Diezmo Abrumador</strong>: Estalla un conflicto en un sub-sector cercano y los diezmos Imperiales se aumentan para su defensa. El grupo pierde el 50% de toda su riqueza acumulada que no haya sido guardada o invertida con el Esfuerzo de Especulación. Alternativamente, cada miembro del grupo debe entregar un arma Común o Rara a la causa.</p>",
+        "96-100": "<p><strong>Un Visitante Muy Importante</strong>: Te cruzas con una persona muy importante. Tal vez un mundo agrícola esté siendo visitado por un miembro de alto rango del Administratum, una estación orbital sea el anfitrión de un rico Rogue Trader, o las instalaciones de un Mundo Forja sean inspeccionadas personalmente por un Magos Dominus. Puedes optar por realizar una Tirada <strong>Social Muy Difícil (−30)</strong>. Si tienes éxito, logras impresionarlo — ganas +1 de Influencia con esa Facción, hasta un máximo de +2. Si fracasas, tu influencia cae en 1 en su lugar.</p>"
+      }
+    },
+    "Eye Type": {
+      "name": "Tipo de Ojos",
+      "description": "",
+      "results": {
+      "1-5": "Triste",
+      "6-10": "Duro",
+      "11-15": "Viejo",
+      "16-20": "Enfocado",
+      "21-25": "Salvaje",
+      "26-30": "Llamativo",
+      "31-35": "Amargo",
+      "36-40": "Esperanzado",
+      "41-45": "Sospechoso",
+      "46-50": "Furioso",
+      "51-55": "Cálido",
+      "56-60": "Muerto",
+      "61-65": "Ardiente",
+      "66-70": "Criticador",
+      "71-75": "Fascinante",
+      "76-80": "Desconsolado",
+      "81-85": "Curioso",
+      "86-90": "Frío",
+      "91-95": "Atormentado",
+      "96-100": "Calculador"      }
+    },
+    "Feral World Faction": {
+      "name": "Facción del Mundo Salvaje",
+      "description": "",
+      "results": {
+        "1-14": "Adeptus Administratum",
+        "15-15": "Adeptus Astra Telepathica",
+        "16-17": "Adeptus Mechanicus",
+        "18-30": "Adeptus Ministorum",
+        "31-82": "Astra Militarum",
+        "83-92": "Imperial Fleet",
+        "93-97": "Infractionist",
+        "98-99": "The Inquisition",
+        "100-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Feudal World Faction": {
+      "name": "Facción del Mundo Feudal",
+      "description": "",
+      "results": {
+        "1-26": "Adeptus Administratum",
+        "27-27": "Adeptus Astra Telepathica",
+        "28-29": "Adeptus Mechanicus",
+        "30-45": "Adeptus Ministorum",
+        "46-79": "Astra Militarum",
+        "80-83": "Imperial Fleet",
+        "84-96": "Infractionist",
+        "97-98": "The Inquisition",
+        "99-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Forge Lord - Boons": {
+      "name": "Forge Lord - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Adeptus Mechanicus Instruction",
+        "2-2": "Adeptus Ministorum Training Facility",
+        "3-3": "Ancient Servants",
+        "4-4": "Augmetics Bay",
+        "5-5": "Cartographica Contacts",
+        "6-6": "Conveyance Commander",
+        "7-7": "Datavault Access",
+        "8-8": "Machine Spirit Maintenance",
+        "9-9": "Servitor Clade",
+        "10-10": "Voidport Peerage"
+      }
+    },
+    "Forge Lord - Liabilities": {
+      "name": "Forge Lord - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Data Addict",
+        "3-3": "Draconian",
+        "4-4": "Enemy",
+        "5-5": "Honour The Machine Spirits",
+        "6-6": "Known Meddler",
+        "7-7": "Meticulous Archivist",
+        "8-8": "Obsolete Observer",
+        "9-9": "Omnissian Principles",
+        "10-10": "Territorial"
+      }
+    },
+    "Forge World Faction": {
+      "name": "Facción del Mundo Forja",
+      "description": "",
+      "results": {
+        "1-20": "Adeptus Administratum",
+        "21-21": "Adeptus Astra Telepathica",
+        "22-71": "Adeptus Mechanicus",
+        "72-73": "Adeptus Ministorum",
+        "74-74": "Astra Militarum",
+        "75-84": "Imperial Fleet",
+        "85-98": "Infractionist",
+        "99-99": "The Inquisition",
+        "100-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Fumble": {
+      "name": "Pifias",
+      "description": "",
+      "results": {
+        "1-1": "<p>Te agitas torpemente y tardas unos segundos cruciales en recuperar una postura defensiva.</p> <p>Caes al final del orden de Iniciativa en el siguiente Asalto.</p>",
+        "2-2": "<p>Te tambaleas torpemente mientras atacas, lo que te deja fuera de balance de manera peligrosa.</p> <p>Tienes Desventaja en todas las pruebas hasta el final de tu siguiente turno.</p>",
+        "3-3": "<p>Un golpe o disparo mal controlado te hace tambalear y dejar caer tu arma.</p> <p>Dejas caer el arma que usaste para atacar. Cualquiera puede recogerla con una Acción Gratuita.</p>",
+        "4-4": "<p>Te tropiezas debido a un golpe torpe o un retroceso inesperado.</p> <p>Caes @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#prone]{Boca abajo}.</p>",
+        "5-5": "<p>Tu ataque imprudente te hace torcerte el tobillo, ya sea por extenderte demasiado en el cuerpo a cuerpo o al doblarte al absorber el retroceso.</p> <p>Tu Velocidad se reduce a Lenta hasta el final del encuentro actual. Esto no cuenta como una Herida Crítica.</p>",
+        "6-6": "<p>Manejas mal tu arma, golpeándola contra una superficie dura o interfiriendo con el funcionamiento de su Espíritu Máquina.</p> <p>Tu arma es @UUID[JournalEntry.wqlquQ8Njtd5fb4Y.JournalEntryPage.wsM53RDPPrqwS3Te#unstable]{Inestable} hasta que se repare con una prueba de <strong>Tecnología (Ingeniería) Difícil (-20)</strong>.</p>",
+        "7-7": "<p>Tu ataque torpe logra cegarte o ensordecerte brevemente. Quizás sobrecargaste un arma de plasma, causando una explosión cegadora de luz, usaste un arma ruidosa demasiado cerca de tu oído, o torpemente golpeaste tu propio ojo cuando tu ataque rebotó.</p> <p>Estás @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Cegado} o @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#deafened]{Sordo}, según lo que determine el GM como más apropiado para tu arma.</p>",
+        "8-8": "```html <p>Tu ataque torpe causa daño menor a tu equipo de protección.</p> <p>Tu Armadura en una ubicación aleatoria se reduce en 1 hasta que se repare (ver @UUID[JournalEntry.J8NVn5iNgM57cKmw.JournalEntryPage.NrJuy93Put0XCYq9#tech-(int)]{Tecnología}). Si no llevas armadura en esa ubicación, sufres 1 Herida en su lugar.</p>",
+        "9-9": "<p>En la confusión torpe de la batalla, logras golpearte torpemente con un golpe superficial. Estás @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Aturdido} o @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#bleeding]{Sangrando}, según lo que determine el GM como más apropiado para tu arma.</p>",
+        "10-10": "<p>Tu ataque golpea a un objetivo no intencionado. Si obtienes esta pifia en un ataque exitoso, tu arma cuerpo a cuerpo podría atravesar a un enemigo e impactar a un aliado, o una bala podría rebotar después de atravesar a un enemigo.</p> <p>Tu ataque golpea a un aliado aleatorio dentro del alcance del arma con +0 SL. Tira para determinar una ubicación de golpe aleatoria. Si no hay ningún objetivo dentro del alcance, de alguna manera te golpeas a ti mismo.</p>"
+      }
+    },
+    "Guildmaster - Boons": {
+      "name": "Guildmaster - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Backchannel Contacts",
+        "2-2": "Blackmailer",
+        "3-3": "Clerk Cadre",
+        "4-4": "Connoisseur",
+        "5-5": "Forger",
+        "6-6": "Gang Backup",
+        "7-7": "Manufactorum Master",
+        "8-8": "Noble Blood",
+        "9-9": "Plausible Deniability",
+        "10-10": "Tentative Alliance"
+      }
+    },
+    "Guildmaster - Liabilities": {
+      "name": "Guildmaster - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Blackmailed",
+        "3-3": "Craven",
+        "4-4": "Dangerous Debt",
+        "5-5": "Enemy",
+        "6-6": "Frail Form",
+        "7-7": "Impostor",
+        "8-8": "Price of Life",
+        "9-9": "Shaky Authority",
+        "10-10": "Strange Tastes"
+      }
+    },
+    "Hair Colour": {
+      "name": "Color de cabello",
+      "description": "",
+      "results": {
+        "1-10": "Blanco/gris",
+        "11-20": "Negro",
+        "21-30": "Castaño/rojo oscuro",
+        "31-40": "Rojo/naranja",
+        "41-50": "Rubio",
+        "51-60": "Verde",
+        "61-70": "Azul",
+        "71-80": "Púrpura",
+        "81-90": "Cabeza descubierta",
+        "91-100": "Múltiple (tira dos veces y vuelve a tirar los resultados de 81–00)"
+      }
+    },
+    "Hair Style": {
+      "name": "Estilo de cabello",
+      "description": "",
+      "results": {
+        "1-10": "Desaliñado",
+        "11-20": "Trenzado",
+        "21-30": "Mohawk",
+        "31-40": "Trasplantado de un equino u otro animal",
+        "41-50": "Largo",
+        "51-60": "Recortado",
+        "61-70": "Rizos apretados",
+        "71-80": "Grande y elaborado",
+        "81-90": "Alambres o picos metálicos",
+        "91-100": "Remaches, malla de alambre o placa"
+      }
+    },
+    "Hive World Faction": {
+      "name": "Facción del Mundo Colmena",
+      "description": "",
+      "results": {
+        "1-24": "Adeptus Administratum",
+        "25-25": "Adeptus Astra Telepathica",
+        "26-37": "Adeptus Mechanicus",
+        "38-49": "Adeptus Ministorum",
+        "50-69": "Astra Militarum",
+        "70-79": "Imperial Fleet",
+        "80-96": "Infractionist",
+        "97-98": "The Inquisition",
+        "99-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Lord-Commissar - Boons": {
+      "name": "Lord-Commissar - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Adeptus Ministorum Training Facility",
+        "2-2": "Ceremonialist",
+        "3-3": "Ecclesiarchal Shrine",
+        "4-4": "Martial Training Facility",
+        "5-5": "Munitorum Depot",
+        "6-6": "Psyker Support",
+        "7-7": "Recruitment Drive",
+        "8-8": "Righteous Bolts",
+        "9-9": "Seconded Troopers",
+        "10-10": "Weapon Specialist"
+      }
+    },
+    "Lord-Commissar - Liabilities": {
+      "name": "Lord-Commissar - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Argumentative",
+        "3-3": "Be Ever Vigilant",
+        "4-4": "Boastful",
+        "5-5": "Dogmatic",
+        "6-6": "Draconian",
+        "7-7": "Enemy",
+        "8-8": "Honour the Machine Spirits",
+        "9-9": "Loose Cannon",
+        "10-10": "Nemesis"
+      }
+    },
+    "Magos Biologis - Boons": {
+      "name": "Magos Biologis - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Adeptus Mechanicus Instruction",
+        "2-2": "Adeptus Ministorum Training Facility",
+        "3-3": "Ancient Servants",
+        "4-4": "Augmetics Bay",
+        "5-5": "Datavault Access",
+        "6-6": "Forbidden Archive",
+        "7-7": "Machine Spirit Maintenance",
+        "8-8": "Medicae Facility",
+        "9-9": "Servitor Clade",
+        "10-10": "Xenotechnician"
+      }
+    },
+    "Magos Biologis - Liabilities": {
+      "name": "Magos Biologis - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Convoluted Communicae",
+        "3-3": "Data Addict",
+        "4-4": "Demands Discretion",
+        "5-5": "Enemy",
+        "6-6": "Incessant Updates",
+        "7-7": "Meticulous Archivist",
+        "8-8": "Obsolete Observer",
+        "9-9": "Omnissian Principles",
+        "10-10": "Unorthodox Beliefs"
+      }
+    },
+    "Malignancies": {
+      "name": "Malignancies",
+      "description": "",
+      "results": {
+        "1-1": "De corazón oscuro",
+        "2-2": "Desdichado",
+        "3-3": "Deseos Terribles",
+        "4-4": "Desmayos",
+        "5-5": "Despertar Psíquico",
+        "6-6": "Fascinación Macabra",
+        "7-7": "Los Ojos",
+        "8-8": "Miedo Irracional",
+        "9-9": "Mirada del Vacío",
+        "10-10": "Náusea Irracional",
+        "11-11": "Obsesión Abrumadora",
+        "12-12": "Paranoia Inquebrantable",
+        "13-13": "Patrón de la Disformidad",
+        "14-14": "Picor Insoportable",
+        "15-15": "Profecías Oscuras",
+        "16-16": "Recuerdos Fantasma",
+        "17-17": "Ruedas Dentro de Ruedas",
+        "18-18": "Sabor a Ceniza",
+        "19-19": "Sentido de la Disformidad",
+        "20-20": "Susurros Oscuros"
+      }
+    },
+    "Motivation - Adeptus Administratum": {
+      "name": "Motivation - Adeptus Administratum",
+      "description": "",
+      "results": {
+        "1-1": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "2-3": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "4-5": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "6-7": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "8-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - Adeptus Astra Telepathica": {
+      "name": "Motivation - Adeptus Astra Telepathica",
+      "description": "",
+      "results": {
+        "1-2": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "3-4": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "5-7": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "8-8": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "9-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - Adeptus Mechanicus": {
+      "name": "Motivation - Adeptus Mechanicus",
+      "description": "",
+      "results": {
+        "1-2": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "2-4": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "5-7": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "8-9": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "10-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - Adeptus Militarum": {
+      "name": "Motivation - Adeptus Militarum",
+      "description": "",
+      "results": {
+        "1-3": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "4-5": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "6-7": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "8-9": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "10-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - Adeptus Ministorum": {
+      "name": "Motivation - Adeptus Ministorum",
+      "description": "",
+      "results": {
+        "1-2": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "3-3": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "4-5": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "6-8": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "9-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - Imperial Fleet": {
+      "name": "Motivation - Imperial Fleet",
+      "description": "",
+      "results": {
+        "1-2": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "3-4": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "5-7": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "8-9": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "10-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - Infractionist": {
+      "name": "Motivation - Infractionist",
+      "description": "",
+      "results": {
+        "1-2": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "3-4": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "5-6": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "7-9": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "10-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - Rogue Trader Dynasty": {
+      "name": "Motivation - Rogue Trader Dynasty",
+      "description": "",
+      "results": {
+        "1-2": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "3-4": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "5-7": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "8-9": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "10-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Motivation - The Inquisition": {
+      "name": "Motivation - The Inquisition",
+      "description": "",
+      "results": {
+        "1-2": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#conflict]{Conflict}",
+        "3-5": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#information]{Information}",
+        "6-6": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#material]{Material}",
+        "7-8": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#reputation]{Reputation}",
+        "9-10": "@UUID[JournalEntry.QrGsY2UZDirxvDaB.JournalEntryPage.6ZqYnaCVOjFZtOS8#unity]{Unity}"
+      }
+    },
+    "Mutations": {
+      "name": "Mutaciones",
+      "description": "",
+      "results": {
+        "1-5": "Marca de Hechicero",
+        "6-10": "Cuerpo Destrozado",
+        "11-15": "Tentáculo Azotador",
+        "16-20": "Belleza Inhumana",
+        "21-25": "Piel de Hierro",
+        "26-30": "Boca Extra",
+        "31-35": "Sangre Ardiente",
+        "36-40": "Sombra Viviente",
+        "41-45": "Bruto Hinchado",
+        "46-50": "Ojo Extra",
+        "51-55": "Cuernos Retorcidos",
+        "56-60": "Rostro Demoníaco",
+        "61-65": "Piernas Digitígradas",
+        "66-70": "Plumas",
+        "71-75": "Garras de Disformidad",
+        "76-80": "Irregularidad Fotónica",
+        "81-85": "Herida Supurante",
+        "86-90": "Lengua Colgante",
+        "91-95": "Carne-metal",
+        "96-100": "Regeneración de la Disformidad"
+      }
+    },
+    "Name - Archaic": {
+      "name": "Name - Archaic",
+      "description": "",
+      "results": {
+        "1-4": "Aenisse",
+        "5-8": "Barbosa",
+        "9-12": "Caradoc",
+        "13-16": "Draco",
+        "17-20": "Drusilla",
+        "21-24": "Eizen",
+        "25-28": "Genevieve",
+        "29-32": "Hanette",
+        "33-36": "Ingrita",
+        "37-40": "Jaq",
+        "41-44": "Jocasta",
+        "45-48": "Karollon",
+        "49-52": "Killian",
+        "53-56": "Lemant",
+        "57-60": "Lethe",
+        "61-64": "Naveen",
+        "65-68": "Pollonia",
+        "69-72": "Sabanth",
+        "73-76": "Tessera",
+        "77-80": "Tzarelle",
+        "81-84": "Verity",
+        "85-88": "Wynnif",
+        "89-92": "Yasta",
+        "93-96": "Zadora",
+        "97-100": "Zarkov"
+      }
+    },
+    "Name - Esoteric": {
+      "name": "Name - Esoteric",
+      "description": "",
+      "results": {
+        "1-4": "Alpha",
+        "5-8": "Bot",
+        "9-12": "Conscript",
+        "13-16": "Designate",
+        "17-20": "Diamond",
+        "21-24": "Exactius",
+        "25-28": "Fatal",
+        "29-32": "Gamma",
+        "33-36": "Grace",
+        "37-40": "Harrow",
+        "41-44": "Incubus",
+        "45-48": "Jewel",
+        "49-52": "Killswitch",
+        "53-56": "Lumen",
+        "57-60": "Mortis",
+        "61-64": "Norn",
+        "65-68": "Optima",
+        "69-72": "Promethium",
+        "73-76": "Reject",
+        "77-80": "Stalker",
+        "81-84": "The Unnamed",
+        "85-88": "Vulture",
+        "89-92": "Whitenoise",
+        "93-96": "X",
+        "97-100": "Zilch"
+      }
+    },
+    "Name - High Gothic": {
+      "name": "Name - High Gothic",
+      "description": "",
+      "results": {
+        "1-4": "Azararch",
+        "5-8": "Baranoth",
+        "9-12": "Castella",
+        "13-16": "Davrus",
+        "17-20": "Fausta",
+        "21-24": "Flavia",
+        "25-28": "Galliach",
+        "29-32": "Harthos",
+        "33-36": "Icharus",
+        "37-40": "Irissa",
+        "41-44": "Karpath",
+        "45-48": "Lothos",
+        "49-52": "Lucindia",
+        "53-56": "Mycandra",
+        "57-60": "Noctine",
+        "61-64": "Novianna",
+        "65-68": "Octavia",
+        "69-72": "Partheos",
+        "73-76": "Regia",
+        "77-80": "Scythia",
+        "81-84": "Severan",
+        "85-88": "Tyruss",
+        "89-92": "Venria",
+        "93-96": "Ventium",
+        "97-100": "Yemmise"
+      }
+    },
+    "Name - Informal": {
+      "name": "Name - Informal",
+      "description": "",
+      "results": {
+        "1-4": "Able",
+        "5-8": "Axer",
+        "9-12": "Beakie",
+        "13-16": "Bones",
+        "17-20": "Bolt",
+        "21-24": "Burner",
+        "25-28": "Crusher",
+        "29-32": "Cutter",
+        "33-36": "Dokk",
+        "37-40": "Echo",
+        "41-44": "Flair",
+        "45-48": "Grunt",
+        "49-52": "Lax",
+        "53-56": "Lho",
+        "57-60": "Mag",
+        "61-64": "Marrow",
+        "65-68": "Newt",
+        "69-72": "Pincer",
+        "73-76": "Red",
+        "77-80": "Scab",
+        "81-84": "Shiv",
+        "85-88": "Starr",
+        "89-92": "Steel",
+        "93-96": "Tranq",
+        "97-100": "Wurm"
+      }
+    },
+    "Name - Low Gothic": {
+      "name": "Name - Low Gothic",
+      "description": "",
+      "results": {
+        "1-4": "Arz",
+        "5-8": "Barik",
+        "9-12": "Canto",
+        "13-16": "Cil",
+        "17-20": "Darrial",
+        "21-24": "Enoch",
+        "25-28": "Horst",
+        "29-32": "Gaius",
+        "33-36": "Galatia",
+        "37-40": "Kelle",
+        "41-44": "Kulem",
+        "45-48": "Magdala",
+        "49-52": "Merra",
+        "53-56": "Mordicai",
+        "57-60": "Narcia",
+        "61-64": "Noros",
+        "65-68": "Pennette",
+        "69-72": "Quinten",
+        "73-76": "Quineel",
+        "77-80": "Rhia",
+        "81-84": "Silvanto",
+        "85-88": "Sesselie",
+        "89-92": "Uri",
+        "93-96": "Xandra",
+        "97-100": "Zariel"
+      }
+    },
+    "Ordo Hereticus Inquisitor - Boons": {
+      "name": "Ordo Hereticus Inquisitor - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Clandestine Inquisition Training Facility",
+        "2-2": "Contact Network",
+        "3-3": "Cover Story",
+        "4-4": "Datavault Access",
+        "5-5": "Fearsome Reputation",
+        "6-6": "Psychic Protection",
+        "7-7": "Sanctum Obscurus",
+        "8-8": "Spy Network",
+        "9-9": "Strategos Extremis",
+        "10-10": "Witch Hunt"
+      }
+    },
+    "Ordo Hereticus Inquisitor - Liabilities": {
+      "name": "Ordo Hereticus Inquisitor - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Be Ever Vigilant",
+        "3-3": "Convoluted Communicae",
+        "4-4": "Demands Discretion",
+        "5-5": "Enemy",
+        "6-6": "Nemesis",
+        "7-7": "Paranoid",
+        "8-8": "Psyker Slayer",
+        "9-9": "Sidereal Quests",
+        "10-10": "Witch Hunter"
+      }
+    },
+    "Ordo Xenos Inquisitor - Boons": {
+      "name": "Ordo Xenos Inquisitor - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Clandestine Inquisition Training Facility",
+        "2-2": "Contact Network",
+        "3-3": "Cover Story",
+        "4-4": "Fearsome Reputation",
+        "5-5": "Oracular",
+        "6-6": "Psychic Protection",
+        "7-7": "Sanctum Obscurus",
+        "8-8": "Spy Network",
+        "9-9": "Strategos Extremis",
+        "10-10": "Xenotechnician"
+      }
+    },
+    "Ordo Xenos Inquisitor - Liabilities": {
+      "name": "Ordo Xenos Inquisitor - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Demands Discretion",
+        "3-3": "Enemy",
+        "4-4": "Excommunicated",
+        "5-5": "Nemesis",
+        "6-6": "Offended the Omnissiah",
+        "7-7": "Paranoid",
+        "8-8": "Rumoured Dead",
+        "9-9": "Unorthodox Beliefs",
+        "10-10": "Warped Visions"
+      }
+    },
+    "Origin": {
+      "name": "Origen",
+      "description": "",
+      "results": {
+        "1-10": "Agri World",
+        "11-20": "Feral World",
+        "21-30": "Feudal World",
+        "31-40": "Forge World",
+        "41-70": "Hive World",
+        "71-80": "Schola Progenium",
+        "81-90": "Shrine World",
+        "91-100": "Voidborn"
+      }
+    },
+    "Patron Demeanor": {
+      "name": "Comportamiento del Patrón",
+      "description": "",
+      "results": {
+        "1-2": "<p><strong>Irritable</strong>: Tu patrón es ambicioso y decidido. Actúa con rapidez. Exige resultados y no acepta excusas. También puede ser vengativo o enfadarse con facilidad.</p>",
+        "3-4": "<p><strong>Sombrío</strong>: Tu patrón es reflexivo y analítico. Actúa con lentitud y considera las ramificaciones de cada decisión. Espera la perfección en sus sirvientes tanto como en sí mismo.</p>",
+        "5-6": "<p><strong>Pragmático</strong>: Tu patrón es sereno y tranquilo. Tiene un don para ver otras perspectivas y reconoce la necesidad de llegar a acuerdos más que la mayoría de líderes del Imperio.</p>",
+        "7-8": "<p><strong>Celoso</strong>: Tu patrón es locuaz, activo y entusiasta. Se rodea de sirvientes y aliados. Desprecia la ociosidad, pero puede actuar precipitadamente.</p>",
+        "9-10": "<p><strong>Inescrutable</strong>: Su patrón oculta su personalidad tras una apariencia de profesionalismo estoico o de cordialidad tranquila.</p>"      }
+    },
+    "Patron Faction": {
+      "name": "Patron Faction",
+      "description": "",
+      "results": {
+        "1-10": "Adeptus Administratum",
+        "11-15": "Adeptus Astra Telepathica",
+        "16-30": "Adeptus Mechanicus",
+        "31-39": "Adeptus Ministorum",
+        "40-54": "Astra Militarum",
+        "55-64": "Imperial Fleet",
+        "65-74": "Infractionist",
+        "75-94": "Rogue Trader Dynasty",
+        "95-100": "The Inquisition"
+      }
+    },
+    "Perils of the Warp": {
+      "name": "Peligros de la Disformidad",
+      "description": "",
+      "results": {
+        "01-05": "<p><strong>Desconcertado</strong>: Vistes algo en la Disformidad que te pone los pelos de punta. Ganas la condición de @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#frightened]{Aterrorizado (Menor)}.</p>",
+        "06-10": "<p><strong>Dientes Apretados</strong>: El poder te recorre, y sufres 3 heridas.</p>",
+        "11-15": "<p><strong>Descarga Psíquica</strong>: Cualquier dispositivo alimentado que lleves, como los cargadores de lasguns, dataslates y vox-casters, pierde su carga inmediatamente. Debes recargar o reparar estos dispositivos antes de que puedan ser utilizados de nuevo.</p>",
+        "16-20": "<p><strong>Cadena de Luz de la Disformidad</strong>: El poder surge de ti en arcos de luz iridiscente. Todos los demás personajes dentro del Rango Corto sufren un impacto que causa [[1d10+6]] de Daño. Los objetivos pueden intentar esquivar este impacto como si fuera un Ataque a Distancia con 1 SL.</p>",
+        "21-25": "<p><strong>Repercusión</strong>: Una violenta explosión de energía de la Disformidad golpea tu mente y te deja tambaleando. Quedas @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Aturdido}.</p>",
+        "26-30": "<p><strong>Lengua Robada</strong>: Los caprichosos caprichos de la Disformidad te roban la capacidad de hablar durante [[1d10]] horas.</p>",
+        "31-35": "<p><strong>Fotosensibilidad</strong>: Durante [[1d10]] horas te vuelves increíblemente sensible a la luz. Puedes ver con facilidad en casi completa oscuridad. No sufres los efectos de los entornos @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#obscured]{Oscurecidos} o @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#poorly-lit]{Poco Iluminados}, pero estás @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#blinded]{Cegado} mientras te encuentras en Zonas sin esas características expuestas a luz brillante.</p>",
+        "36-40": "<p><strong>Desviación de Característica</strong>: Algún elemento de tu apariencia — el color de tus ojos o cabello, tu altura o tu manera de andar, cambia sutil y permanentemente. Los detalles de esto quedan a discreción del GM.</p>",
+        "41-45": "<p><strong>Despojo Balbuceante</strong>: Gritas de dolor mientras terribles conocimientos de la Disformidad retuercen tu mente. Quedas @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Aturdido} y expuesto a una fuente de @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.PuzopCeKzYgcYAwh#moderate-exposure]{corrupción moderada}.</p>",
+        "46-50": "<p><strong>Quemadura del Alma</strong>: El poder de la Disformidad recorre tu cuerpo, dejando una cicatriz permanente en tu alma. Durante las siguientes [[1d10]] horas no podrás usar ningún Poder Psíquico.</p>",
+        "51-55": "<p><strong>Bloqueado</strong>: La energía de la Disformidad inunda tu cuerpo, haciéndolo casi imposible de controlar. Estás Restringido por una fuerza invisible con Fuerza 50 durante [[1d10]] asaltos.</p>",
+        "56-60": "<p><strong>Explosión Conmocionante</strong>: Con un estallido explosivo de poder, quedas Inconsciente. Los personajes en Rango Corto deben superar una prueba de <strong>Fortaleza (Resistencia) Desafiante (+0)</strong> o quedarán @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Aturdidos}.</p>",
+        "61-65": "<p><strong>Lluvia de Sangre</strong>: Una tormenta psíquica antinatural irrumpe, cubriendo tu Zona con una lluvia de sangre. Además de este efecto angustiante, todas las habilidades psíquicas ven duplicada su puntuación de Carga de Disformidad si se utilizan dentro de esta área.</p>",
+        "66-70": "<p><strong>Deslizamiento Temporal</strong>: El tiempo fluye de manera extraña a tu alrededor, y eres lanzado [[1d10]] asaltos al futuro. Desde el punto de vista de los demás, simplemente desapareces durante [[1d10]] asaltos.</p>",
+        "71-75": "<p><strong>Emergencia Demoníaca</strong>: Un demonio rasga su camino fuera de la Disformidad y emerge dentro del Rango Corto de ti. Tira un d10 para determinar qué tipo de demonio aparece: 1-3, un @UUID[Compendium.impmal-core.actors.Actor.4bhFOh1nTrYloc8s]{Portador de Plaga}, 4-6, un @UUID[Compendium.impmal-core.actors.Actor.r38KjnD2RWhYIykh]{Cortejador de Sangre}, 7-8, una @UUID[Compendium.impmal-core.actors.Actor.xzqdh2P5F2c7QpVm]{Daemonette}, o un @UUID[Compendium.impmal-core.actors.Actor.CAvzgSBWrbnHu8zi]{Horror Rosa} aparece.</p>",
+        "76-80": "<p><strong>Explosión Catastrófica</strong>: El poder irrumpe de ti en grandes arcos de energía chisporroteante. Tú y todos los demás personajes dentro del Rango Corto sufren un impacto que causa 3d10 de Daño de Energía. Además, todo tu equipo se destruye en el acto, dejándote de pie en un cráter humeante.</p>",
+        "81-87": "<p><strong>Posesión Masiva</strong>: Gritas en una lengua antinatural y herética mientras entidades demoníacas intentan usarte como puente para entrar en el universo material. Tira un d10 al principio de cada uno de tus turnos: con una tirada de 8 o más el efecto termina. Mientras el efecto esté en curso, no puedes Moverte y debes gastar tu Acción intentando contener a la horda demoníaca. Eres una fuente de corrupción moderada mientras persiste este efecto.</p>",
+        "88-94": "<p><strong>Hospedador Demoníaco</strong>: Debes superar inmediatamente una prueba de <strong>Disciplina Muy Difícil (–30)</strong> o ser poseído por un demonio. Los detalles de esto quedan a discreción del GM, pero es casi seguro que el ser atacará a todos los que lo rodean, independientemente de su relación contigo. Aunque es probable que estés efectivamente muerto, la destrucción del Hospedador Demoníaco podría liberar tu alma, si no salvar tu vida.</p>",
+        "95-100": "<p><strong>Ojo del Terror</strong>: Se abre una puerta sustancial al inmaterium, y algo verdaderamente terrible emerge. La naturaleza de esto queda a discreción del GM, pero un Demonio Mayor atravesando o un antiguo Space Hulk apareciendo en órbita serían apropiados.</p>"
+      }
+    },
+    "Port Commander - Boons": {
+      "name": "Port Commander - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Astropathic Communication",
+        "2-2": "Connoisseur",
+        "3-3": "Contrabandist",
+        "4-4": "Conveyance Commander",
+        "5-5": "Drop Squad",
+        "6-6": "Ideologue Crusader",
+        "7-7": "Null Sanctum",
+        "8-8": "Recruitment Drive",
+        "9-9": "Tithe Inspection",
+        "10-10": "Voidsman Training Facility"
+      }
+    },
+    "Port Commander - Liabilities": {
+      "name": "Port Commander - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Argumentative",
+        "3-3": "Blackmailed",
+        "4-4": "Dealbreaker",
+        "5-5": "Enemy",
+        "6-6": "Overextended",
+        "7-7": "Required Recruitment",
+        "8-8": "Revisionist",
+        "9-9": "Shaky Authority",
+        "10-10": "Strange Tastes"
+      }
+    },
+    "Psychic Phenomena": {
+      "name": "Fenómenos psíquicos",
+      "description": "",
+      "results": {
+        "01-06": "<p><strong>Escarcha</strong>: El área está cubierta por una delgada capa de escarcha. El aliento se condensa en el aire y un escalofrío antinatural se infiltra incluso a través de la ropa y armaduras más gruesas. </p> <p><strong>Persistente</strong>: El efecto se vuelve permanente. El área puede calentarse temporalmente mediante un gran gasto de calor y energía, pero eventualmente la entropía y el frío de la tumba lo reclaman.</p>",
+        "06-12": "<p><strong>Aullido de Banshee</strong>: Un fuerte chillido llena el área, haciendo periódicamente imposible escuchar otros sonidos. </p> <p><strong>Persistente</strong>: Los chillidos ensordecedores ocurren a diario. La voz parece familiar para todos los que la escuchan.</p>",
+        "13-19": "<p><strong>Lágrimas Sangrientas</strong>: Imágenes como cuadros, íconos y estatuas en el área parecen llorar sangre. </p> <p><strong>Persistente</strong>: El llanto se vuelve permanente. Quienes beben la sangre viscosa sueñan con terribles presagios.</p>",
+        "20-30": "<p><strong>Chupador de Aliento</strong>: El aire es absorbido de los pulmones de todos los presentes. Los personajes en tu Zona deben tener éxito en una prueba de <strong>Fortaleza (Resistencia) Desafiante (+0)</strong> o quedarán @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Aturdidos} durante un asalto. </p> <p><strong>Persistente</strong>: El aire se vuelve permanentemente viciado y difícil de respirar. Trata la Zona como si estuviera bajo la influencia permanente de una @UUID[Compendium.impmal-core.items.Item.OjLq7yDUPG8TpISi]{Granada Asfixiante}.</p>",
+        "31-36": "<p><strong>Presagio Oscuro</strong>: Una brisa susurrante llena el área, dando a los cercanos una sensación de temor sin nombre. </p> <p><strong>Persistente</strong>: El área se vuelve permanentemente inquietante. Los personajes que entren en la Zona deben realizar una prueba de <strong>Disciplina (Miedo) Desafiante (+0)</strong> o se sentirán Aterrados.</p>",
+        "36-42": "<p><strong>Reflejo Distorsionado</strong>: Las superficies reflectantes en el área distorsionan todo lo que reflejan, mostrando una versión retorcida y perturbadora de la realidad. </p> <p><strong>Persistente</strong>: Las superficies en el área nunca reflejan lo que realmente está presente. Los individuos pueden sacar inspiración impía de las extrañas imágenes que perciben.</p>",
+        "43-49": "<p><strong>Cayendo Hacia Arriba</strong>: La gravedad se invierte durante unos segundos. Los personajes en tu Zona deben tener éxito en una prueba de <strong>Reflejos (Acrobacias) Desafiante (+0)</strong> o sufrirán una caída de 10 metros. </p> <p><strong>Persistente</strong>: La gravedad cambia permanentemente en el área. La gravedad anormalmente alta inflige la condición de @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#overburdened]{Sobrecargado} a cualquiera en la Zona. Ocasionalmente, la gravedad se invierte sin previo aviso, como ocurre en Cayendo Hacia Arriba arriba.</p>",
+        "50-56": "<p><strong>Escalofrío Mortal</strong>: Las superficies cercanas se vuelven frías al tacto, y el aliento se condensa en el aire. </p> <p><strong>Persistente</strong>: El área permanece gélida a pesar de los intentos por calentarla, y cuenta como un @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.UaRHLqZ99zmg7AeE#exposure]{Entorno frío}.</p>",
+        "57-66": "<p><strong>Gusano de Memoria</strong>: Todos en el área encuentran difícil recordar cosas menores, como los nombres de las personas o la hora. </p> <p><strong>Persistente</strong>: El área se convierte en un lugar permanente de olvido. Es difícil recordar la mayoría de los hechos cuando se está en el área, y pasar más de una hora allí provoca que alguien olvide algo sustancial.</p>",
+        "67-73": "<p><strong>Paranoia Creciente</strong>: Todos en el área tienen la repentina e inquebrantable sensación de que están siendo observados. </p> <p><strong>Persistente</strong>: El área se ve envuelta en una aura permanente de desconfianza y paranoia. Cualquiera que pase más de una hora en el área empieza a sospechar de todos a su alrededor por tener malas intenciones.</p>",
+        "74-80": "<p><strong>Podredumbre y Descomposición</strong>: Cualquier bien perecedero en el área se vuelve rancio e inmamable, y los insectos y pequeños animales cercanos perecen rápidamente. </p> <p><strong>Persistente</strong>: El área adquiere un olor permanente y tenue de podredumbre persistente. Las plantas vivas, las pequeñas criaturas y los alimentos perecen o se descomponen en cuestión de horas, y nuevas enfermedades surgen con frecuencia en los alrededores.</p>",
+        "80-85": "<p><strong>Velo de Oscuridad</strong>: Todas las fuentes de luz se atenúan considerablemente, haciendo que la Zona se convierta en @UUID[JournalEntry.hdElQAwiBr5AyoRf.JournalEntryPage.zQYkbNcsJmGintdL#poorly-lit]{Poco Iluminada}. </p> <p><strong>Persistente</strong>: El efecto se vuelve permanente.</p>",
+        "86-90": "<p><strong>Eco de la Disformidad</strong>: Todos en la Zona escuchan voces y sonidos resonantes de eventos pasados y cosas que aún están por venir. Los personajes que escuchan esta desconcertante cacofonía deben superar una prueba de <strong>Disciplina Desafiante (+0)</strong> o quedarán @UUID[JournalEntry.DjxnvYJajGflu7IY.JournalEntryPage.Tu0sU1bo9eZI6qoe#stunned]{Aturdidos}. </p> <p><strong>Persistente</strong>: Susurros y voces distantes acechan la Zona para siempre. Pueden engañar o informar a los oyentes.</p>",
+        "91-95": "<p><strong>Avance Psíquico</strong>: Tira de nuevo en esta tabla, volviendo a tirar los resultados de 101 o más, y aplica tanto el efecto estándar como el efecto Persistente de ese resultado.</p>",
+        "96-100": "<p><strong>Peligros de la Disformidad</strong>: Algo ha salido terriblemente mal. Tira de nuevo en la tabla de @UUID[RollTable.2YYlAUyaVIt4bZVa]{Peligros de la Disformidad}, exactamente como si hubieras fallado una prueba para controlar tu Carga de Disformidad acumulada.</p>"
+      }
+    },
+    "Random Talents": {
+      "name": "Talentos aleatorios",
+      "description": "",
+      "results": {
+        "1-10": "Acute Sense",
+        "11-13": "Adrenaline Acceleration",
+        "14-15": "Ambidextrous",
+        "16-17": "Artistic",
+        "18-19": "Gothic Gibberish",
+        "20-21": "Holdout Expert",
+        "22-23": "Contortionist",
+        "24-25": "Distracting",
+        "26-27": "Disturbing Voice",
+        "28-29": "Eidetic Memory",
+        "30-31": "Familiar Terrain",
+        "32-35": "Fated",
+        "36-42": "Flagellant",
+        "43-44": "Forbidden Knowledge",
+        "45-48": "Frenzy",
+        "49-54": "Hatred",
+        "55-60": "Lickspittle",
+        "61-64": "Inheritor",
+        "65-66": "Secret Identity",
+        "67-75": "Tenacious",
+        "76-88": "Unremarkable",
+        "89-92": "Devoted Servant",
+        "93-94": "Void Legs",
+        "95-98": "Well-prepared",
+        "99-99": "Tira dos veces más en esta tabla",
+        "100-100": "@UUID[Compendium.impmal-core.items.Item.3GLGsYiH5LiKgYjE]{Psyker} or @UUID[Compendium.impmal-core.items.Item.PpidBBZ7dG6yziXg]{Blank}"
+      }
+    },
+    "Schola Progenium Faction": {
+      "name": "Schola Progenium Faction",
+      "description": "",
+      "results": {
+        "1-20": "Adeptus Administratum",
+        "21-21": "Adeptus Astra Telepathica",
+        "22-23": "Adeptus Mechanicus",
+        "24-45": "Adeptus Ministorum",
+        "46-67": "Astra Militarum",
+        "68-74": "Imperial Fleet",
+        "75-94": "The Inquisition",
+        "95-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Senior Officer - Boons": {
+      "name": "Senior Officer - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Air Support",
+        "2-2": "Astropathic Communication",
+        "3-3": "Ideologue Crusader",
+        "4-4": "Martial Training Facility",
+        "5-5": "Medicae Facility",
+        "6-6": "Munitorum Depot",
+        "7-7": "Munitorum Surplus",
+        "8-8": "Recruitment Drive",
+        "9-9": "Strategos Extremis",
+        "10-10": "Weapon Specialist"
+      }
+    },
+    "Senior Officer - Liabilities": {
+      "name": "Senior Officer - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Enemy",
+        "3-3": "Hallowed Ignorance",
+        "4-4": "Honour the Machine Spirits",
+        "5-5": "Known Meddler",
+        "6-6": "Offended the Omnissiah",
+        "7-7": "Overextended",
+        "8-8": "Psyker Slayer",
+        "9-9": "Required Recruitment",
+        "10-10": "Territorial"
+      }
+    },
+    "Shrine World Faction": {
+      "name": "Facción del Mundo Santuario",
+      "description": "",
+      "results": {
+        "1-14": "Adeptus Administratum",
+        "15-15": "Adeptus Astra Telepathica",
+        "16-17": "Adeptus Mechanicus",
+        "18-57": "Adeptus Ministorum",
+        "58-71": "Astra Militarum",
+        "72-83": "Imperial Fleet",
+        "84-97": "Infractionist",
+        "98-99": "The Inquisition",
+        "100-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Sister of Silence - Boons": {
+      "name": "Sister of Silence - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Ancient Servants",
+        "2-2": "Cartographica Contacts",
+        "3-3": "Clandestine Inquisition Training Facility",
+        "4-4": "Cleansing Flame",
+        "5-5": "Datavault Access",
+        "6-6": "Drop Squad",
+        "7-7": "Fearsome Reputation",
+        "8-8": "Purification Rituals",
+        "9-9": "Righteous Bolts",
+        "10-10": "Witch Hunt"
+      }
+    },
+    "Sister of Silence - Liabilities": {
+      "name": "Sister of Silence - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Convoluted Communicae",
+        "3-3": "Demands Discretion",
+        "4-4": "Enemy",
+        "5-5": "Honour The Machine Spirits",
+        "6-6": "Miserly",
+        "7-7": "Overextended",
+        "8-8": "Pious Stipulations",
+        "9-9": "Tithe Obsessed",
+        "10-10": "Witch Hunter"
+      }
+    },
+    "Tithe Prefectus - Boons": {
+      "name": "Tithe Prefectus - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Administratum Censorium",
+        "2-2": "Adeptus Ministorum Training Facility",
+        "3-3": "Ancient Servants",
+        "4-4": "Astropathic Communication",
+        "5-5": "Cartographica Contacts",
+        "6-6": "Clerk Cadre",
+        "7-7": "Contact Network",
+        "8-8": "Conveyance Commander",
+        "9-9": "Datavault Access",
+        "10-10": "Vigilite Vanguard"
+      }
+    },
+    "Tithe Prefectus - Liabilities": {
+      "name": "Tithe Prefectus - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Craven",
+        "3-3": "Draconian",
+        "4-4": "Frail Form",
+        "5-5": "Incessant Updates",
+        "6-6": "Meticulous Archivist",
+        "7-7": "Miserly",
+        "8-8": "Obsolete Observer",
+        "9-9": "Revisionist",
+        "10-10": "Tithe Obsessed"
+      }
+    },
+    "Trader Militant - Boons": {
+      "name": "Trader Militant - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Air Support",
+        "2-2": "Cartographica Contacts",
+        "3-3": "Connoisseur",
+        "4-4": "Contrabandist",
+        "5-5": "Drop Squad",
+        "6-6": "Ideologue Crusader",
+        "7-7": "Martial Training Facility",
+        "8-8": "Opulent",
+        "9-9": "Refined Panopoly",
+        "10-10": "Registered Trader"
+      }
+    },
+    "Trader Militant - Liabilities": {
+      "name": "Trader Militant - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Argumentative",
+        "3-3": "Boastful",
+        "4-4": "Dangerous Debt",
+        "5-5": "Enemy",
+        "6-6": "Loose Cannon",
+        "7-7": "Rumoured Dead",
+        "8-8": "Strange Tastes",
+        "9-9": "Territorial",
+        "10-10": "Unorthodox Beliefs"
+      }
+    },
+    "Vehicle Critical Hit Table": {
+      "name": "Tabla de Impactos Críticos de Vehículos",
+      "description": ""
+    },
+    "Voidborn Faction": {
+      "name": "Voidborn Faction",
+      "description": "",
+      "results": {
+        "1-14": "Adeptus Administratum",
+        "15-24": "Adeptus Astra Telepathica",
+        "25-34": "Adeptus Mechanicus",
+        "35-38": "Adeptus Ministorum",
+        "39-52": "Astra Militarum",
+        "53-82": "Imperial Fleet",
+        "83-87": "Infractionist",
+        "88-89": "The Inquisition",
+        "90-100": "Rogue Trader Dynasty"
+      }
+    },
+    "Voidship Captain - Boons": {
+      "name": "Voidship Captain - Boons",
+      "description": "",
+      "results": {
+        "1-1": "Air Support",
+        "2-2": "Astropathic Communication",
+        "3-3": "Cartographica Contacts",
+        "4-4": "Conveyance Commander",
+        "5-5": "Drop Squad",
+        "6-6": "Ideologue Crusader",
+        "7-7": "Munitorum Depot",
+        "8-8": "Noble Blood",
+        "9-9": "Recruitment Drive",
+        "10-10": "Voidsman Training Facility"
+      }
+    },
+    "Voidship Captain - Liabilities": {
+      "name": "Voidship Captain - Liabilities",
+      "description": "",
+      "results": {
+        "1-1": "Abrupt",
+        "2-2": "Argumentative",
+        "3-3": "Dealbreaker",
+        "4-4": "Dogmatic",
+        "5-5": "Enemy",
+        "6-6": "Overextended",
+        "7-7": "Paranoid",
+        "8-8": "Pious Stipulations",
+        "9-9": "Required Recruitment",
+        "10-10": "Sidereal Quests"
+      }
+    }
+  }
+}
